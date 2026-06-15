@@ -5,7 +5,7 @@ SmartKisan is a **smart agriculture mobile application** designed to help farmer
 The application enables farmers to **monitor crops, detect plant diseases, control irrigation pumps remotely, and connect with other farmers through a community platform.**
 
 SmartKisan aims to bring **modern digital farming tools** into the hands of farmers.
-
+Link to the website : smart-kisan-psi.vercel.app
 ---
 
 # 📱 Project Overview
