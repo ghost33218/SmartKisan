@@ -7,7 +7,8 @@ The application enables farmers to **monitor crops, detect plant diseases, contr
 SmartKisan aims to bring **modern digital farming tools** into the hands of farmers.
 
 ---
-Link to website : smart-kisan-psi.vercel.app
+Link to website :  smart-kisan-psi.vercel.app
+Deployed using vercel
 ---
 
 # 📱 Project Overview
